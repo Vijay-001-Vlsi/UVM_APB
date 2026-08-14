@@ -1,0 +1,6 @@
+work/
+covReport/
+*.ucdb
+transcript
+*.log
+*.vstf
